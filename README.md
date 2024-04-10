@@ -1,81 +1,51 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# µLearn
 
-# Communicate using Markdown
-
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_μLearn is the framework for peer learning, facilitated by the Academia and Technology Focus Froup (ATFG) of the Group of Technology Companies (GTech), the Industry body of IT and BPM companies in Kerala._
 
 </header>
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+### Our Core Thesis
 
-## Step 1: Add headers
+Through μLearn, students will network, collaborate, learn, and showcase their skills to the outside world. The platform encourages peer-learning groups, in carefully curated areas, led by industry, academia, and technology organizations along with expert mentors.
 
-_Welcome to "Communicate using Markdown"! :wave:_
+<img src="https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="community" align=right width=400>
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+- **The Museum Model: Explore then Expertise** <br>
+Encourages individuals to discover their passions through exploration, leading to expertise in areas that genuinely interest them.
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+- **Gamification: A sense of progress** <br>
+Incorporating game-like elements into learning makes the process more engaging by providing immediate rewards and feedback, enhancing motivation.
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+- **It's about the people** <br>
+Shifting focus from the learning material to building a community of like-minded individuals can greatly enhance motivation and engagement through social interaction.
 
-### Example
+- **Proof of Work: Learn and prove it to the world** <br>
+True learning is demonstrated by applying knowledge to create something valuable, which must be evidenced by proof of work.
 
-```md
-# This is an `<h1>` header, which is the largest
+- **Participatory Contribution: Community Validation** <br>
+The community's role in reviewing and validating contributions enriches the learning experience and fosters respect and recognition among peers.
 
-## This is an `<h2>` header
+- **Network: The leverage to your knowledge** <br>
+Building a valuable network amplifies your knowledge and opportunities, with μLearn's growing community serving as a significant asset for connections.
 
-###### This is an `<h6>` header, which is the smallest
+- **Garden / Forest Mindset: Building things that sustain** <br>
+Unlike a garden that relies on a gardener, μLearn aims to be a self-sustaining ecosystem, growing organically like a forest through community collaboration and open-source principles.
+
+
+### Join Now
+
+```python
+def hello_world():
+    print("Hello, Join µLearn today!")
 ```
-
-#### How it looks
-
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-### :keyboard: Activity: Edit your file with headers
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- [x] Create Mu-ID
+- [ ] Login to discord
+- [ ] Complete challenges and get Karma points
+- [ ] Do Gig Works
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+To know more : (https://mulearn.org/)
 
 </footer>
